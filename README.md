@@ -1,5 +1,8 @@
 # Hyper-parameter Optimization
 
+![article banner](banner.png)
+
+
 This repository contains 5 python scripts demonstrating how to use different hyper-parameter optimization methods:
 - Exhaustive Grid Search
 - Randomized Grid Search
