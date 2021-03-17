@@ -1,4 +1,4 @@
-# Hyper-parameter Optimization
+# Hyperparameter Optimization
 
 ![article banner](banner.png)
 
